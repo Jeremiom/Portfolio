@@ -21,14 +21,7 @@
     margin-right: 2rem;
     margin-bottom: 1rem;
   }
-  hr {
-    width: 25%;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 0.15rem solid #233554;
-    margin-left: 2rem;
-  }
+ 
  .project-container{
   padding-left: 11%;
   padding-right: 15%;

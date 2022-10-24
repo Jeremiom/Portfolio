@@ -12,10 +12,15 @@ function Projects() {
   const projects = {
     Carte: {
       desc: "Carte is cloud-based restaurant management solution that reinvents the dine-in/restaurant experience with a streamline of cloud-dynamic operations, including but not limited to: labor management, inventory management, and a dynamic digital menu",
-      techStack: "React.js, DOTNET, T-SQL",
+      techStack: "React.js, C#, .NET, T-SQL",
       link: "https://github.com/Jeremiom",
       open: "https://lacarte.azurewebsites.net/",
     },
+    "ATM System Application": {
+      desc: "The application implements all the main functionalities of a ATM management system. You can sign up, login, deposit, withdraw, change pin, and receive a statement.",
+      techStack: "C#, .NET, T-SQL",
+      link: "https://github.com/Jeremiom/ATM-System"
+    }
   };
   return (
     <div id="projects">
